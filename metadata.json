@@ -1,0 +1,6 @@
+{
+  "name": "Scriptwriter AI",
+  "description": "AI Scriptwriter Chatbot for script development and dialogue refinement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
